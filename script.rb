@@ -18,7 +18,7 @@ def stock_picker(stock_arr)
         end
     end
 
-    puts best_day
+    best_day
 end
 
 stock_picker([17,3,6,9,15,8,6,1,10])
